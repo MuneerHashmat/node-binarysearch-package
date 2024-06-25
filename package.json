@@ -1,10 +1,14 @@
 {
   "name": "@muneerhashmat/binarysearch",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "a simple npm package that provides binary search functionality for a sorted array",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MuneerHashmat/node-binarysearch-package.git"
   },
   "keywords": [
     "array",
